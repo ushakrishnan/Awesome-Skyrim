@@ -2,7 +2,7 @@
 # Awesome-Skyrim
 Collection of Skyrim resources to help you master Skyrim
 
-![Skyrim](../main/../Awesome-Skyrim/Assets/skyrim-logo.png)
+![Skyrim](../main/Assets/skyrim-logo.png)
 
 **Alchemy cheatsheets:**
 1. Printable PDF Poster [Printable Poster](../main/AlchemyDocs/Skyrim%20Alchemy%20Poster.pdf)
