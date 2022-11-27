@@ -8,8 +8,8 @@ Collection of Skyrim resources to help you master Skyrim
 <BR/>
 
 **Helper apps and mods coming soon:**
-1. iPhone / Android Alchemy helper
-2. Skyrim Alchemy helper mod
+1. iPhone / Android Alchemy helper mobile apps
+2. Level up quickly with - Skyrim Alchemy helper mods
 <BR/>
 
 
