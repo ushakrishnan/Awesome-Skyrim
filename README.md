@@ -2,9 +2,9 @@
 Collection of Skyrim resources to help you master Skyrim
 
 **Alchemy cheatsheets:**
-1. Printable PDF Poster [Printable Poster](../blob/main/AlchemyDocs/Skyrim%20Alchemy%20Poster.pdf)
-2. Printable PDF A4 pages with potion header on each page [Printable cheatsheets](../blob/main/AlchemyDocs/Skyrim%20Alchemy%20Printout.pdf)
-3. Excel file source for PDF about [Excel Source File](../blob/main/AlchemyDocs/Skyrim%20Alchemy.xlsx)
+1. Printable PDF Poster [Printable Poster](../main/AlchemyDocs/Skyrim%20Alchemy%20Poster.pdf)
+2. Printable PDF A4 pages with potion header on each page [Printable cheatsheets](../main/AlchemyDocs/Skyrim%20Alchemy%20Printout.pdf)
+3. Excel file source for PDF about [Excel Source File](../main/AlchemyDocs/Skyrim%20Alchemy.xlsx)
 <BR/>
 
 
