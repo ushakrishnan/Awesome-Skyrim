@@ -7,8 +7,13 @@ Collection of Skyrim resources to help you master Skyrim
 3. Excel file source for PDF about [Excel Source File](../main/AlchemyDocs/Skyrim%20Alchemy.xlsx)
 <BR/>
 
+**Helper apps and mods coming soon:**
+1. iPhone / Android Alchemy helper
+2. Skyrim Alchemy helper mod
+<BR/>
 
-**Coming Soon:**
+
+**Updates coming soon:**
 1. Best resources to get started with Skyrim Mod
 2. Best resources for easy guide to Skyrim Mods development
 3. Skyrim Mods organizer and setups
